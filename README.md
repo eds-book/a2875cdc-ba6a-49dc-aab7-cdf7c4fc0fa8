@@ -21,7 +21,10 @@
     </a>
 </p>
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/13321552/222932903-00439d12-92e5-4f31-a1ae-789036ae7ebd.png?raw=True" alt="thumbnail" width="500"/>
+</p>
+    
 # How to run
 
 ## Running on Binder
