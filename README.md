@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/13321552/222932903-00439d12-92e5-4f31-a1ae-789036ae7ebd.png?raw=True" alt="thumbnail" width="500"/>
+<img src="https://user-images.githubusercontent.com/13321552/222991049-8829f885-537b-42c0-b736-a5fca55a0f0a.png?raw=True" alt="thumbnail" width="300"/>
 </p>
     
 # How to run
