@@ -1,7 +1,7 @@
 name: wildfires-sensors-fires_modis
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
   - python=3.9
   - jupyter
