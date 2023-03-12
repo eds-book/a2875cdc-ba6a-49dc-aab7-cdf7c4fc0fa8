@@ -6,13 +6,13 @@ on:
     types:
       - completed
 
-env:
-  NASA_EARTHDATA_USER: ${{ secrets.NASA_EARTHDATA_USER }}
-  NASA_EARTHDATA_PWD: ${{ secrets.NASA_EARTHDATA_PWD }}
-
 # This job installs dependencies, build the jupyter notebook, and pushes it to `render`, a new `branch`
 jobs:
   build:
+    env:
+      NASA_EARTHDATA_USER: ${{ secrets.NASA_EARTHDATA_USER }}
+      NASA_EARTHDATA_PWD: ${{ secrets.NASA_EARTHDATA_PWD }}
+
     name: ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
 
