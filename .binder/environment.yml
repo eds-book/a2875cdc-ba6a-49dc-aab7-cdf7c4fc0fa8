@@ -16,3 +16,5 @@ dependencies:
   - datashader
   - python-dotenv
   - pyresample
+  - satpy
+  - pyspectral
