@@ -1,4 +1,4 @@
-name: wildfires-sensors-fires_modis
+name: a2875cdc-ba6a-49dc-aab7-cdf7c4fc0fa8
 channels:
   - conda-forge
   - nodefaults
