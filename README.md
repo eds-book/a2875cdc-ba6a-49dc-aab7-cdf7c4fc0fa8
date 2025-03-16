@@ -1,4 +1,12 @@
 <div align="center">
+    <h6>Environmental Data Science Book</h6>
+</div>
+
+<p align="center">
+<img src="https://github.com/alan-turing-institute/environmental-ds-book/blob/main/book/figures/logo/logo.png?raw=True" alt="thumbnail" width="200"/>
+</p>
+
+<div align="center">
     <h1>MODIS MOD021KM and FIRMS
 </div>
 
