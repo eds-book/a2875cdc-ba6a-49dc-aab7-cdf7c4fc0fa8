@@ -73,7 +73,7 @@ jobs:
           NASA_EARTHDATA_PWD: ${{ secrets.NASA_EARTHDATA_PWD }}
         with:
             image: quay.io/${{steps.config_quay.outputs.prop}}:latest
-            options: --user root -v ${{ github.workspace }}:/tmp
+            options: --user root -v ${{ github.workspace }}:/tmp -e NASA_EARTHDATA_USER -e NASA_EARTHDATA_PWD
             shell: bash
             run: |
                 v=$(jupyter kernelspec list | awk '{print $1}' | egrep ${{steps.config_kernel.outputs.prop}})
