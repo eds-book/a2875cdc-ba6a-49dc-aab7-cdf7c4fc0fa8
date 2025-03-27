@@ -25,10 +25,10 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.8309635
 keywords:
-  - environmental data science
-  - wildfires
-  - exploration
-  - MODIS
+  - Wildfires
+  - Exploration
+  - Standard
+  - Python
 license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/a2875cdc-ba6a-49dc-aab7-cdf7c4fc0fa8
