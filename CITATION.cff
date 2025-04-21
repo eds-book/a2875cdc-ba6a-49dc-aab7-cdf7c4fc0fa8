@@ -25,7 +25,7 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.8309635
 keywords:
-  - Wildfires
+  - Fire
   - Exploration
   - Standard
   - Python
