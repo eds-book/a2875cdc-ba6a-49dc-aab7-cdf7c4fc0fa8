@@ -12,7 +12,6 @@ authors:
     affiliation: Science and Technology Facilities Council
     orcid: 0000-0001-5301-5095
     email: samueljackson@outlook.com
-    website: https://github.com/samueljackson92
 date-released: '2024-09-13'
 contact:
   - family-names: Jackson
@@ -20,7 +19,6 @@ contact:
     affiliation: Science and Technology Facilities Council
     orcid: 0000-0001-5301-5095
     email: samueljackson@outlook.com
-    website: https://github.com/samueljackson92
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8309635
@@ -33,4 +31,4 @@ license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/a2875cdc-ba6a-49dc-aab7-cdf7c4fc0fa8
 type: software
-version: v1.1.0
+version: v2025.05.0
