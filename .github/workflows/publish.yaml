@@ -12,6 +12,8 @@ jobs:
     secrets:
       QUAY_USERNAME: ${{ secrets.QUAY_USERNAME }}
       QUAY_PASSWORD: ${{ secrets.QUAY_PASSWORD }}
+      NASA_EARTHDATA_USER: ${{ secrets.NASA_EARTHDATA_USER }}
+      NASA_EARTHDATA_PWD: ${{ secrets.NASA_EARTHDATA_PWD }}
 
   deploy:
     needs: build-and-execute
